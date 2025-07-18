@@ -27,7 +27,7 @@ También puede tener información sobre si es para llevar, para entrega a domici
 
 ## PIZZAS
 Cada pizza tiene un tamaño (personal, mediana, familiar), una base de masa (normal, integral, delgada) y múltiples ingredientes.
-Algunas son del menú (pizza hawaiana, pepperoniu, vegetariana) y otras son perzonalisadas por el cliente.
+Algunas son del menú (pizza hawaiana, pepperoniu, vegetariana) y otras son personalizadas por el cliente.
 
 ## PROBLEMATICA
 Pizzería es un negocio en crecimiento que ofrece pizzas artesanales, pastas y bebidas tanto en el local como por delivery. 

@@ -1,3 +1,10 @@
+INTEGRANTES
+Calle
+Contreras
+Herrera
+Manzo
+Pérez
+
 # PIZZA2
 ## PIZZERIA
 Es un negocio de comida rápida que opera desde hace varios años en una zona urbana con alta demanda gastronómica. 
